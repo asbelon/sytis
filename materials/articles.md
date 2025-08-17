@@ -2,7 +2,7 @@
 title: Статьи
 description: 
 published: false
-date: 2025-06-08T17:58:44.631Z
+date: 2025-08-17T05:41:00.747Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-08T17:58:41.934Z
@@ -110,8 +110,12 @@ dateCreated: 2025-06-08T17:58:41.934Z
 
 # U
 
+---|---|---
+Use-Case Foundation |  | https://www.ivarjacobson.com/use-case-foundation | [A000002.pdf](/materials/articles/a000002.pdf)
+
 # V
 
+---|---|---
 V-Model |  | https://aiotplaybook.org/index.php?title=Agile_V-Model | [A000001.pdf](/materials/articles/a000001.pdf)
 
 # W
@@ -126,7 +130,9 @@ V-Model |  | https://aiotplaybook.org/index.php?title=Agile_V-Model | [A000001.p
 
 Шаблон идентификатора статьи A999999
 
-Последний идентификатор: A000001
+Последний идентификатор: A000002
+
+A000002 a000002
 
 
 
