@@ -2,7 +2,7 @@
 title: Вариант использования
 description: 
 published: false
-date: 2025-08-18T17:27:49.939Z
+date: 2025-08-18T18:15:04.352Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-17T18:33:25.191Z
