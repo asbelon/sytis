@@ -2,7 +2,7 @@
 title: Термины
 description: 
 published: false
-date: 2025-08-15T18:21:45.787Z
+date: 2025-08-25T20:51:53.088Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-29T21:03:21.426Z
@@ -56,6 +56,7 @@ dateCreated: 2025-03-29T21:03:21.426Z
 
 # П
 
+[Пользовательская история](/definitions/user-story)
 [Програмный продукт](/definitions/product)
 
 # Р
