@@ -1,8 +1,8 @@
 ---
-title: Артифакты
+title: Артефакты
 description: 
 published: false
-date: 2025-08-02T11:32:04.140Z
+date: 2025-09-05T18:45:24.569Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-02T11:32:00.710Z
